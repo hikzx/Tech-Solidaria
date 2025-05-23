@@ -1,5 +1,5 @@
 # ONG TECH SOLIDÁRIA 
-#Não é novidade que a tecnologia é parte fundamental do futuro. A cada ano, novas ferramentas e inovações surgem ou evoluem. No entanto, muitas pessoas ainda enfrentam dificuldades para acompanhar esse avanço, seja pela falta de familiaridade com dispositivos eletrônicos, pela ausência de acesso a computadores em escolas públicas, ou pela defasagem de recursos tecnológicos disponíveis.
+Não é novidade que a tecnologia é parte fundamental do futuro. A cada ano, novas ferramentas e inovações surgem ou evoluem. No entanto, muitas pessoas ainda enfrentam dificuldades para acompanhar esse avanço, seja pela falta de familiaridade com dispositivos eletrônicos, pela ausência de acesso a computadores em escolas públicas, ou pela defasagem de recursos tecnológicos disponíveis.
 
 Diante desse cenário, a ONG Techsolidária firmou uma parceria com redes públicas de ensino com o objetivo de promover a inclusão digital. A proposta é proporcionar aos estudantes uma imersão em um novo universo: o mundo da tecnologia.
 
@@ -12,4 +12,4 @@ E mais: enquanto se diverte e aprende, o aluno também tem acesso a conteúdos s
 A Techsolidária acredita que investir em conhecimento e segurança é o caminho para formar cidadãos críticos, conscientes e preparados para o futuro.
 
 
-#Acesse o nosso projeto no arquivo "code.py"
+Acesse o nosso projeto no arquivo "code.py"
