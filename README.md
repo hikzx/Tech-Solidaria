@@ -10,3 +10,6 @@ Além do caráter lúdico, a Techsolidária se preocupa com a segurança dos usu
 E mais: enquanto se diverte e aprende, o aluno também tem acesso a conteúdos sobre ética e sustentabilidade digital, incentivando o uso responsável e consciente da tecnologia.
 
 A Techsolidária acredita que investir em conhecimento e segurança é o caminho para formar cidadãos críticos, conscientes e preparados para o futuro.
+
+
+#Acesse o nosso projeto no arquivo "code.py"
